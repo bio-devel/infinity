@@ -14,5 +14,7 @@ Download Eclipse:
 https://eclipse.org/downloads/
 
 To download MySql server and workbench:
+
 Windows: http://dev.mysql.com/downloads/windows/
+
 Linux: in a terminal type "apt-get install mysql-server mysql-workbench"
